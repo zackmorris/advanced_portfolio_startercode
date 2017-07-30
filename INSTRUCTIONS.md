@@ -2,10 +2,10 @@
 
 | # classes|Example|Planning|Assesment|
 |:--:|:--:|:--:|:--:|
-| 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_porfolio_solution/)|[Planning Document](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A)|[Rubric](https://docs.google.com/document/d/1BlL6dLk1Yzt_QB9pKoHh9si7VRjGPXwAc5NuZP_y0DU/edit)|
+| 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_porfolio_solution/)|[Planning Document](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A)|[Rubric](https://drive.google.com/open?id=1OcgOVmsKKEHgFG6v5Z0eJaVY23k6qdUKJoy5Y3WXS4w)|
 
 ## Overview: 
-* 
+In this unit you will create a professional portfoilio. You will use bootstrap and to create a reponsive page. You will use this portfolio as place to upload future projects after the are completed. 
 
 ## Functionality:
 * 
@@ -16,7 +16,7 @@
 * Add links to working url and project source code to your portfolio with an image and short description of the project
 
 ## Projects Extensions:
-* Create a button the that randomly chooses only one gif
+* 
 
 
 ## References/Tools
