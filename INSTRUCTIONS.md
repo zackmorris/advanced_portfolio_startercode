@@ -8,12 +8,12 @@
 In this unit you will create a professional portfoilio. You will use bootstrap and to create a reponsive page. You will use this portfolio as place to upload future projects after the are completed. 
 
 ## Objectives:
-* 1.1: intro to project and project planning
-* 1.2: plan and create a wireframe
-* 2.1: import bootstrap a create navbar 
-* 2.2: Use grid system to create rows and columns in a container
-* 3.1: Read bootstrap documentation to implement a component 
-* 3.2: Create gh-pages branch to host website
+* 1.1 intro to project and project planning
+* 1.2 plan and create a wireframe
+* 2.1 import bootstrap a create navbar 
+* 2.2 Use grid system to create rows and columns in a container
+* 3.1 Read bootstrap documentation to implement a component 
+* 3.2 Create gh-pages branch to host website
 
 ## Project Submission:
 * Project must have ALL changes pushed to github
