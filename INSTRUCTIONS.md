@@ -57,10 +57,7 @@ To push to GitHub run the following commands in your terminal:
 `git push origin master`
 
 ### 4) index.html
-The HTML file in this repo is not fully complete as of right now. Follow the comments within the file before moving on to the script.js file.
-
-### 5) script.js
-Use the comments within the script.js file to help you complete the missing components of this game. Follow the comments within the file before moving on to the extensions.
+The HTML file in this repo is not fully complete as of right now. Follow instructions in the comments. 
 
 ### 6) Extensions 
 See above for project extensions. 
