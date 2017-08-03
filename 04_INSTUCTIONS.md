@@ -2,7 +2,7 @@
 
 | # classes|Example|Planning|Assesment|
 |:--:|:--:|:--:|:--:|
-| 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_porfolio_solution/)|[Planning Document](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A)|[Rubric](https://drive.google.com/open?id=1OcgOVmsKKEHgFG6v5Z0eJaVY23k6qdUKJoy5Y3WXS4w)|
+| 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_porfolio_solution/)|[Planning Document](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4)|[Rubric](https://drive.google.com/open?id=1_K1rMWlViYBfdbeZotXI9kG-wtpAS5syDIphwRVQlTw)|
 
 ## Overview: 
 Students will update thier portfolio about me page with create an object that contains information about themselves. Students will navigate the object and pull information to display to the screen. 
@@ -15,26 +15,17 @@ Students will update thier portfolio about me page with create an object that co
 * 3.1 add new properties, modify, and delete properties an object
 * 3.2 Update existing properties of an object
 
-## Project Submission:
-* Project must have ALL changes pushed to github
-* Project must be hosted on gh-pages branch of with a working url
+## Instructions
+1) Fork this repo to your own github account. 
+2) Clone this repo into your own Cloud9 account workspace.
+3) Create your README.md file.
+4) Follow the instuctions in the comments to create your project
+5) Push all changes to GitHub.
+6) Host project on gh-pages.
+7) Add links to working url and project source code to your portfolio with an image and short description of the project.
 
 ## Projects Extensions:
 * 
 
 ## References/Tools
 * 
-
-***
-## Instructions
-
-
-### 1) script.js
-The HTML file in this repo is not fully complete as of right now. Follow instructions in the comments. 
-
-### 2) Extensions 
-See above for project extensions. 
-
-
-## Homework
-Instructor will assign homework based on progress in class.
