@@ -15,14 +15,19 @@ In this unit you will create a professional portfoilio. You will use bootstrap a
 * 3.1 Read bootstrap documentation to implement a component 
 * 3.2 Create gh-pages branch to host website
 
-## Project Submission:
-* Project must have ALL changes pushed to github
-* Project must be hosted on gh-pages branch of with a working url
+## Instructions
+1) Fork this repo to your own github account. 
+2) Clone this repo into your own Cloud9 account workspace.
+3) Create your README.md file.
+4) Follow the instuctions in the comments to create your project
+5) Push all changes to GitHub.
+6) Host project on gh-pages.
+7) Add links to working url and project source code to your portfolio with an image and short description of the project.
 
 ## Projects Extensions:
 * Add a modal to your site
 * Create another about me page that your site links to
-*  Add scrollspy to your project
+* Add scrollspy to your project
 * Create a contact form
 *  Update the styling for the portfolio
 * Link your resume to your portfolio
@@ -30,38 +35,3 @@ In this unit you will create a professional portfoilio. You will use bootstrap a
 ## References/Tools
 * [http://getbootstrap.com/](http://getbootstrap.com/)
 * [https://www.w3schools.com/bootstrap/](https://www.w3schools.com/bootstrap/)
-
-***
-## Instructions
-
-You are given Starter Code for this project which you must fork and clone into your own workspace. 
-
-### 1) Fork this repo to your own github account 
-1. Click fork in the top right corner of this page
-
-### 2) Create your README.md file
-
-### 3) Clone this repo into your own Cloud9 account workspace
-1. Copy the "clone URL" from this repo
-2. In your Cloud9 dashboard click on the green "Create New Workspace" button and select "Clone from URL"
-
-Once the workspace has been processed, check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
-![Imgur](http://i.imgur.com/RKdsduL.png)
-
-**NOTE: It is common practice to push your changes to your GitHub repository often. It is recommended that you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub. Your manager will be rating your progress.**
-
-To push to GitHub run the following commands in your terminal:  
-`git status`  
-`git add .`  
-`git commit -m "example comment"`  
-`git push origin master`
-
-### 4) index.html
-The HTML file in this repo is not fully complete as of right now. Follow instructions in the comments. 
-
-### 6) Extensions 
-See above for project extensions. 
-
-
-## Homework
-Instructor will assign homework based on progress in class.
