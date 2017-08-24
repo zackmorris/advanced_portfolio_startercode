@@ -5,7 +5,7 @@
 | 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_porfolio_solution/)|[Planning Document](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A)|[Rubric](https://drive.google.com/open?id=1OcgOVmsKKEHgFG6v5Z0eJaVY23k6qdUKJoy5Y3WXS4w)|
 
 ## Overview: 
-In this unit coders will create a Portfolio page. The Portfolio page will provide personal information, links to their prior projects, and contact information. In order to create this project, coders will use bootstrap to layout their page and gh-pages to host their portfolio.
+In this unit, coders will create an online Portfolio. The Portfolio will provide personal information, links to their prior projects, and contact information. To create this project, coders will use bootstrap to layout their page and gh-pages to host their portfolio.
 
 ## Objectives:
 * 1.1 intro to project and project planning
