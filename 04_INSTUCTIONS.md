@@ -1,8 +1,8 @@
 # Portfolio Project
 
-| # classes|Example|Planning|Assesment|
+| # classes|Example Project|Project Planning|Rubric|
 |:--:|:--:|:--:|:--:|
-| 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_objects_solution/)|[Planning Document](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4)|[Rubric](https://drive.google.com/open?id=1_K1rMWlViYBfdbeZotXI9kG-wtpAS5syDIphwRVQlTw)|
+| 3 |[04 RP](https://scriptedcurriculum.github.io/advanced_objects_solution/)|[04 PP](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4)|[04 RB](https://drive.google.com/open?id=1_K1rMWlViYBfdbeZotXI9kG-wtpAS5syDIphwRVQlTw)|
 
 ## Overview: 
 In this unit, coders will create an object representation of their Portfolio page. With this update to their portfolio, all of the displayed information will be generated from a JavaScipt object. To create this project, coders will create an object representation of their portfolio, navigate the object, and display information to the screen.
